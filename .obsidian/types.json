@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "uid": "number",
+    "date": "date",
+    "year": "number",
+    "week": "text",
+    "month_start": "date",
+    "month_end": "date",
+    "quarter_start": "date",
+    "quarter_end": "date"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "f3464baf0e45f998",
+    "type": "split",
+    "children": [
+      {
+        "id": "c006de8eaba472e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8ebd57e7362d7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8616f33db6c83221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config/templates/daily.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "daily"
+            }
+          },
+          {
+            "id": "5a49cb31b577fc03",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/daily-habit.png"
+              },
+              "icon": "lucide-image",
+              "title": "daily-habit"
+            }
+          },
+          {
+            "id": "c0fa0aa8feb82b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config/templates/plan/daily.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "daily"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ba0a0484627bfe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5894dbba307549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b5fee021174ef84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32f1c54ccd99e823",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "723f6c862af74dad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5651a47f92c38ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d2952c3afda5ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7147f35103c7dad3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Daily/Dec-02-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dec-02-2024"
+            }
+          },
+          {
+            "id": "f50c81dff921b1a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Daily/Dec-02-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dec-02-2024"
+            }
+          },
+          {
+            "id": "265ce71a691fd71f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a2e5e335beea1bdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Daily/Dec-02-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dec-02-2024"
+            }
+          },
+          {
+            "id": "0b4e08eefa6116d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "c0fa0aa8feb82b7b",
+  "lastOpenFiles": [
+    "README.md",
+    "_attachments/footer.png",
+    "_attachments/dataview1.png",
+    "Personal/Daily/2024-12-03.md",
+    "_config/templates/plan/daily.md",
+    "Personal/Daily/2024-12-02.md",
+    "_config/templates/plan/quarterly.md",
+    "_config/templates/plan/monthly.md",
+    "_config/templates/plan/weekly.md",
+    "README.md.md",
+    "footer.png",
+    "dataview1.png",
+    "_config/templates/create/footer_template.md",
+    "_config/templates/create/Notes Template.md",
+    "_config/templates/create/Article Review Template.md",
+    "_config/templates/create/Github Template.md",
+    "_config/templates/create",
+    "_config/templates/plan",
+    "Personal/Monthly/2024-12.md",
+    "Data Views/Published Pages.md",
+    "Data Views/Pages to Review.md",
+    "Data Views/Habit Tracking.md",
+    "_attachments/dataview.png",
+    "Personal/Quarterly/2024-Q4.md",
+    "_config/templates/How to use Templates.md",
+    "_attachments/daily-habit.png",
+    "Personal/Weekly/2024-W48.md",
+    "Personal/Yearly/2024.md",
+    "Personal/Quarterly/02024-Q4.md",
+    "Untitled 1.md",
+    "_config/templates/plan/yearly.md",
+    "Personal/Daily/Dec-02-2024.md",
+    "Personal/Weekly/Untitled.md",
+    "Personal/Quarterly",
+    "Dec-02-2024.md",
+    "_config/templates",
+    "Personal/Monthly",
+    "Personal/Yearly",
+    "Personal/Weekly",
+    "Personal/Daily",
+    "Review",
+    "Publish to Website"
+  ]
+}
